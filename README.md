@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @NatkanskiMichal
+- 👀 I’m interested in web developing
+- 🌱 I’m currently learning react :) 
